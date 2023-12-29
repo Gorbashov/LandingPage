@@ -208,3 +208,19 @@
     font-weight: 800;
 }
 
+
+        /* last section */
+
+
+.last-section{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height:100px;
+
+
+
+}
+
